@@ -4,7 +4,6 @@ public class Carro {
     String marca;
     String Modelo;
 
-    String Combustivel;
 
 
 
